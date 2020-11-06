@@ -3,7 +3,7 @@
 * generates certificates for the names mentioned in the text file 
 * saves the generated the certificates in the participant's name 
 * stores all the saved certificates into the mentioned folder
-* can generate any number of such certificate in seconds given 
+* can generate any number of such certificate in seconds provided
     * the certificate template 
             and 
-    * the coordinates for entering the name and date
+    * the coordinates for entering(via clicking) the name and date
